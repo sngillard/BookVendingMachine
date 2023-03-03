@@ -1,0 +1,22 @@
+A1,The Boston Girl,8.50,BestSeller
+A2,The Likeness,12.00,Mystery
+A3,Grand Canyon,8.50,Nonfiction
+A4,The Woman in Cabin 10,14.00,Mystery
+B1,Fairy Tale,15.50,BestSeller
+B2,Where the Crawdads Sing,10.00,BestSeller
+B3,Finding Winnie,16.50,Nonfiction
+B4,Silent Spring,8.50,Nonfiction
+C1,Tales of a Fourth Grade Nothing,5.50,Children
+C2,I Am Malala,7.95,Nonfiction
+C3,Dog Man,4.75,Children
+C4,The Suspect,10.50,Mystery
+D1,The Boys from Biloxi,8.50,BestSeller
+D2,The Mitten,8.25,Children
+D3,The Very Hungry Caterpillar,5.50,Children
+D4,In The Woods,12.00,Mystery
+
+
+
+
+
+
